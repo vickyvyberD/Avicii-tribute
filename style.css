@@ -1,0 +1,33 @@
+body{
+    background-color: #cbd1cc;
+    margin: 1px;
+    
+  }
+  #main{
+    text-align: center;
+    font-family: consolas;
+    background-color: white;
+  }
+  #img-div{
+    margin: 1px;
+    margin-bottom:6px;
+    display: inline-block;
+    border: 2px solid;
+    
+  
+    height: auto;
+  
+    
+   
+  }
+  #image{
+    max-width: 100%;
+    display:block;
+  }
+  #tribute-info{
+    text-align: center;
+    
+  }
+  footer{
+    text-align:center;
+  }
